@@ -1,0 +1,195 @@
+﻿Informatica©Zuzana«: Cual de los siguientes programas no es un reproductor de video: VLC, MX, KMPlayer, Dreamweaver, GOM*Dreamweaver
+Historia©Zuzana«: Cual es la fecha de nacimiento del escritor y politico cubano Jose Marti Julian Perez*28 de Enero de 1853
+Modismos©Zuzana«: Como dirias en buen cubano: te pones pesado, inaguantable.*Te pones como picones
+Variado©Zuzana«:A que pais le debemos la marca reconocida de tabacos Cohiba*Cuba
+Musica©Zuzana«:Que gran musico compuso la cancion Yolanda*Pablo Milanes
+Frases©Zuzana«:Quien dijo: Cada tic-tac es un segundo de la vida que pasa, huye, y no se repite. Y hay en ella tanta intensidad, tanto interes, que el problema es solo saberla vivir. Que cada uno resuelva como pueda*Frida Kahlo
+Geografia©Zuzana«:En cual provincia de Cuba se encuentra el rio Toa*Guantanamo
+Informatica©Zuzana«:Diga el nombre del programador y empresario estadounidense creador de la red social Facebook*Mark Zuckerberg
+Musica©Zuzana«:Cual es el grupo musical cubano mas reconocido mundialmente*Los Van Van
+Informatica©Zuzana«:Cual programa del paquete office de windows escogeriamos para realizar tablas incluyendole operaciones matematicas*Microsoft Excel
+IRC/Comandos©Zuzana«:Con cual sentencia nos cambiariamos el nick en una sala IRC.*-/nick nuevonick
+Historia©Zuzana«: A que edad el lider revolucionario Fidel Castro Ruz escribio La Historia me Absolvera*27 años
+Musica©Zuzana«:De que cantante española es el disco: Cambio de piel*Bebe
+Cine©Zuzana«:En que año se estreno la pelicula fantastica mexicana "El Laberinto del Fauno"*2006
+Cine©Zuzana«:Diga la nacionalidad de la pelicula "Los pajaros tirandole a la escopeta"*cubana
+Frases©Zuzana«:Quien dijo la siguiente frase: "Que alguien te haga sentir cosas sin ponerte un dedo encima, eso es admirable"*Mario Benedetti
+Adivinanza©Zuzana«:Responda la siguiente adivinanza: Somos muchos hermanitos, en una sola casa vivimos, si nos rascan la cabeza al instante morimos*Los fosforos
+Informatica©Zuzana«: Diga combinacion de teclas para cambiar entre programas abiertos.*alt + tab
+Canciones©Zuzana«: Complete: Me voyyyyyyyyyy*pa mi casa
+Historia©Zuzana«:Diga año del triunfo de la Revolucion cubana*1959
+Salud©Zuzana«:Cuál enfermedad que afecta los riñones es la que causa la inflamacion de los pequeños filtros de los riñones (glomérulos). Los glomerulos eliminan el exceso de liquido, los electrolitos y los desechos del torrente sanguineo, y los hacen pasar a la orina.*glomerulonefritis
+Pintura©Zuzana«: Famosa artista de la plastica, autora de "La Costurera"*Amelia Pelaez del Casal
+Futbol©Zuzana«:El jugador del Real Madrid "Marcelo" es oriundo de?*Brasil
+Informatica©-«:Es el Nod32 un antivirus informatico?*si
+Variados©-«:Donde en el mundo podemos disfrutar de un buen mojito y estar en un lugar frecuentado por Ernest Hemingway a la vez*La Bodeguita del Medio en La Habana
+Modismos©-«: Como dirias en buen cubano ayudame, aunque sea un poco.*Tirame un cabo
+Cine©-«:Pelicula ganadora de la estuatilla de mejor filme en los premios Oscar 2019*Green Book
+Acertijo©-«:El señor y la señora Perez tienen seis hijas, y cada hija tiene un hermano. ¿Cuantas personas forman la familia Perez?*9
+Pintura©-«Famoso pintor cubano creador de La gitana tropical.*Victor Manuel
+Frases©-«Quien dijo: La gratitud, como ciertas flores, no se da en la altura y mejor reverdece en la tierra buena de los humildes.*Jose Marti
+Cine©-«:Diga el nombre de la serie taquillera que tiene entre sus personajes a: Jon Snow, Sansa Stark, Cersei Lannister, Arya Stark, Tyrion Lannister*Juego de Tronos
+Frases©-«:Quien dijo:"Decir amistad es decir entendimiento cabal, confianza rapida y larga memoria; es decir, fidelidad."*Gabriela Mistral
+Deportiva©-«:Diga quien fue el campeon del Mundial de futbol 2018*Francia
+Acertijo©-«:¿Que es aquello que te pertenece, pero el resto de las personas lo usan mas que tu?*Tu nombre
+Miscelanea©-«:Diga el año en que paso el devastador huracan Maria por Puerto Rico.*2017
+Informatica©-«: Diga combinacion de teclas para abrir el menu Inicio en windows.*ctrl + esc
+Medicina©-«: Diga el significado de las siglas SIDA.*sindrome de inmunodeficiencia adquirida
+Canciones©-«: Complete la siguiente letra: Si no creyera en el delirio, si no creyera en la esperanza, si no creyera en lo que agencio,si no creyera en mi camino,si no creyera en mi sonido, si no creyera en mi silencio*Que cosa fuera que cosa fuera la maza sin cantera
+Variada©-«:Ordena ave: O- O - C- T - R - O - O - R *Tocororo
+Personajes©-«:Diga nombre del escritor y novelista cubano. Autor de “El reino de este mundo”, y “El siglo de las luces”,  catalogado como uno de los escritores mas importantes del siglo XX*Alejo Carpentier
+Personajes©-«:Quien dijo: "Nada se olvida mas despacio que una ofensa, y nada mas rapido que un favor."*Martin Luther King
+Deporte©-«:Equipo ganador de la Liga de Naciones 2018-2019:*Portugal
+Variada©-«:Cuantos años cumple de creada La Habana en el 2019*500 años
+Biologia©-«:Que tipo de ave es el que como características tienen un pico fuerte y en forma de gancho, cabeza grande y la cola es corta; las patas están provistas de cuatro dedos -dos hacia adelante y dos hacia atrás.*Trepadoras
+Variada©-«:Diga el nombre del actual presidente de la mayor de las Antillas: Cuba*Miguel Mario Diaz-Canel Bermudez
+Variadas©-«:Cuantos metros sobre el nivel del mar mide el Pico Turquino?*1974
+Geografia©-«:El puente mas famoso de Cuba se llama?*Bacunayagua
+Historia©-«:En que año se hizo el primer bojeo a Cuba por Sebastian de Ocampo?*1508
+Religion©AnTuaN«:Cual es la patrona de Cuba?*Virgen de la Caridad del Cobre
+Geografia©AnTuaN«:Elevacion mayor del centro de Cuba?*Pico San Juan
+Variada©AnTuaN«:Cerveza cubana mas famosa de la historia?*Hatuey
+Variada©AnTuaN«:Los carnavales de Sancti Spiritus se llaman?*Santiago Espirituano
+Variadas©AnTuaN«:Una de las fiestas más populares de Santiago de Cuba*Fiesta del Fuego
+Historia©AnTuaN«:Principal pensador de todos los tiempos en Cuba?*Jose Marti
+Medicina©AnTuaN-«:Cientifico cubano, descubridor del agente trasmisor de la fiebre amarilla?*Carlos Juan Finlay
+Musica©AnTuaN-«:Integrantes originales del grupo musical Gente de Zona?*Jacob Forever y Alexander
+Musica©AnTuaN-«:Lider historico del grupo musical Moneda Dura?*Nassiry Lugo
+Geografia©AnTuaN-«:Rio mas largo de Cuba?*Cauto
+Geografia©AnTuaN-«:Rio mas caudaloso de Cuba?*Toa
+Geografia©AnTuaN-«:Malecon mas famoso de Cuba?*Malecon de La Habana
+Geografia©AnTuaN-«:En que lugar de La Habana los guajiros tenemos que tirarnos una foto si la visitamos?*Capitolio
+Musica©AnTuaN-«:No juegues con mi soledad (Buena Fe): Yo vengativo te alerto, tengo el deber...?*Porque te estoy amando y fue sin querer
+Musica©AnTuaN-«:Cantante cubana conocida como La Musicalisima?*Beatriz Marquez
+Geografia©AnTuaN-«: Me siento en el parque Villuendas, estoy en...?*Cienfuegos
+Cine©AnTuaN-«:Pelicula cubana de dibujos animados donde se dice: Vendo enanitos verdes?*Vampiros en La Habana 
+Geografia©AnTuaN-«: Si tomo el agua del Yayabo me quedo aqui para siempre, estoy en...?*Sancti Spiritus
+Frases de Cuba©AnTuaN-«: El Cerro...?*tiene la llave
+Regiones de Cuba©AnTuaN-«: Voy para el Festival de la Piña Colada, estoy en...?*Ciego de Avila
+Regiones de Cuba©AnTuaN-«: Voy para las Romerias de Mayo, estoy en...?*Holguin
+Geografia©AnTuaN-«:Elevacion mayor del Occidente cubano?*Pan de Guajaibon
+Historia©AnTuaN-«:Universidad mas antigua de Cuba?*Universidad de La Habana
+Frases Cubanas©AnTuaN-«:Si un cubano te dice: Rema que aqui no pica, significa que quiere que...?*te vayas del lugar donde se encuentra
+Chiste©AnTuaN-«: Cantante cubano obsesionado con ir al espacio para buscar estrellas?*Polo Montañez
+Musica©AnTuaN-«:Cantante cubano que menciona mucho a Mauro en sus canciones?*Lenier Mesa
+Deporte©AnTuaN-«:Equipo cubano de beisbol conocido por los Toros de la Llanura?*Camaguey
+Regiones de Cuba©AnTuaN-«: Mira que bello el Teatro Milanes, estoy en...?*Pinar del Rio
+Musica©AnTuaN-«:Orquesta cubana conocida como el Tren de Cuba?*Van Van
+Geografia©AnTuaN-«: Que bella la tierra de Marta Abreu, estoy en...?*Villa Clara
+Deporte©AnTuaN-«:Equipo cubano de beisbol conocido por los Gallos?*Sancti Spiritus
+Chiste©AnTuaN-«: Lugar de La Habana donde hay mucho veneno?*La Vibora
+Musica©AnTuaN-«:Hasta que se seque el Malecon (Jacob Forever): Voy a seguir siendo Jacob el Inmortal...?*Hasta que se seque el Malecon
+Variadas©AnTuaN-«:Cual es el producto de exportacion estrella de Cuba?*Tabaco Habano
+Cuba©AnTuaN-«:En que parte de La Habana se encuentra la estatua de John Lennon?*Vedado
+Regiones de Cuba©AnTuaN-«: Siento las arenas de la playa Bibijagua, estoy en...?*Isla de la Juventud
+Deporte©AnTuaN-«:Equipo cubano de beisbol conocido como Los Leones?*Industriales
+Literatura©AnTuaN-«:Primera obra literaria cubana?*Espejo de paciencia
+Regiones de Cuba©AnTuaN-«:Mayor embalse cubano, en su momento el mas grande de America Latina?*Presa Zaza
+Celebraciones cubanas©AnTuaN-«: Si tiramos un cubo de agua a la calle estamos celebrando...?*El Año Nuevo
+Danza©AnTuaN-«:Prima Balerina Absoluta?*Alicia Alonso
+Historia©AnTuaN-«:En el siglo XVIII, ademas de colonia española Cuba fue colonia...?*inglesa
+Deporte©AnTuaN-«:Equipo de beisbol conocido por las Avispas?*Santiago de Cuba
+Musica©AnTuaN-«:Titulo de esta cancion de Moneda Dura: Nunca me fui, solo vivo mas lejos?*Nunca me fui
+Musica©AnTuaN-«:Interprete cubano de Amor en pausa, La mentira, Miami como te descargo?*Chacal
+Historia©AnTuaN-«:Nombre completo de la bandera cubana?*Bandera de la Estrella Solitaria
+Arte©AnTuaN-«:Pintor cubano autor del cuadro El rapto de las mulatas?*Carlos Enriquez
+Deporte©AnTuaN-«:Equipo de beisbol conocido por los Elefantes?*Cienfuegos
+Cine©AnTuaN-«:Programa de la TV cubana donde no falta la frase: Donde si no?*23 y M
+Cine©AnTuaN-«:Actor cubano que fue la voz del Elpidio Valdes?*Frank Gonzalez
+Variada©AnTuaN-«:En Tierra Brava Lucio Contreras, en la vida real...?*Rogelio Blain
+Deporte©AnTuaN-«:Boxeador cubano superpesado fallecido en un lamentable accidente de transito en los 90?*Roberto Balado
+Historia©AnTuaN-«:En que fecha se fundo la primera villa cubana, Baracoa?*1511
+Musica©AnTuaN-«:Quien canta- Oye mamacita linda, dime porque tu me quieres tanto a mi, si es que yo soy malo, si es que yo soy malo cantidad?*Carlos Manuel y su Clan
+Regiones de Cuba©AnTuaN-«: Que bella la playa Ancon, estoy en...?*Trinidad
+Deporte©AnTuaN-«:Pelotero cubano conocido como el Tambor Mayor?*Orestes Kindelan
+Musica©AnTuaN-«:Por quien cambio Alexander a Jacob Forever en la segunda version de Gente de Zona?*Por Randy Malcom
+Musica©AnTuaN-«:Banda de rock muy famosa que realizo un concierto en la Ciudad Deportiva de La Habana bajo tremendo aguacero?*Led Zeppelin
+Regiones de Cuba©AnTuaN-«: Me gusta el Balcon del Oriente Cubano, estoy en...?*Las Tunas
+Chiste©AnTuaN-«: Director de orquesta cubano, el cual le sabe mucho a la zapateria?*David Calzado
+Deporte©AnTuaN-«:Equipo de beisbol conocido por los Alazanes?*Granma
+Radio©AnTuaN-«:Emisora de radio cubana conocida como la Reina Radial del Centro de Cuba?*CMHW
+Radio©AnTuaN-«:Dos de los narradores deportivos mas grandes de la historia de Cuba?*Hector Rodriguez y Eddy Martin
+Deporte©AnTuaN-«:Unicos dos pitchers cubanos en sobrepasar las 100 MPH, en mediciones oficiales?*Maels Rodriguez y Aroldis Chapman
+Regiones de Cuba©AnTuaN-«: Que bella la playa Guanabo, estoy en...?*Las Playas del Este
+Biologia©AnTuaN-«:Mamifero endemico cubano, vive mayormente en el agua?*Manati
+Musica©AnTuaN-«:Concierto efectuado en La Habana, liderado por Juanes y Olga Tañon?*Concierto por la Paz
+Banda sonora de cual aventura cubana©AnTuaN-«: De un corazon nacieron dos semillas, dos frutos, dos vidas que hay que vivir?*Hermanos
+Deporte©AnTuaN-«:Pelotero cubano conocido como el Señor Pelotero?*Luis Giraldo Casanova
+Geografia©AnTuaN-«:Si la Sierra de los Organos queda en Occidente, la Gran Piedra queda en...?*Oriente
+Historia©AnTuaN-«:Nombres de los dos indios mas famosos en la historia de Cuba?*Hatuey y Guama
+Modismos/Cubanos©AnTuaN-«:Si un cubano te dice Tirame un salve, lo que quiere es que...?*lo ayudes en algo que necesita
+Geografia©AnTuaN-«:Si el Turquino es la mayor elevacion, cual es la mayor profundidad cubana?*Fosa de Oriente
+Musica©AnTuaN-«:Cantante cubano que realizo un CD con artistas de la calidad de Ricardo Arjona, Fer (Mana) y Van Van?*Pablo Milanes
+Cuba©AnTuaN-«:Principal acontecimiento cubano que sucede a las 9 PM, no es el aplauso a los medicos OK?*Cañonazo de las 9 en La Habana
+Deporte©AnTuaN-«:Unico pelotero cubano al que se le ha visto usar el 01 en la camiseta?*Yuli Gurriel
+Deporte©AnTuaN-«Equipos que discutieron la Final de la Serie Nacional en el 2002, llegando al septimo juego?*Holguin y Sancti Spiritus
+Deporte©AnTuaN-«Pelotero cubano que mas rapido ha llegado a los 300 jonrones solo con bate de madera?*Frederich Cepeda
+Musica©AnTuaN-«:Quien canta La diabla, Unisex y Avanza?*El Chulo
+Geografia©AnTuaN-«:El Pico Cristal se encuentra en...?*Grupo Nipe-Sagua-Baracoa
+Historia©AnTuaN-«:Fortificaciones mas importantes de La Habana contra corsarios y piratas?*Morro, Cabaña, Punta y Muralla
+Deporte©AnTuaN-«:Se decia que eran 2499, ahora 2500 y algo, pitcher mas ponchador en Series Nacionales?*Rogelio Garcia
+Cine©AnTuaN-«:En Dia y Noche Pablo, en la vida real...?*Jorge Villazon
+Historia©AnTuaN-«:Momento historico donde se vieron al maximo nivel las discrepancias entre Marti y Maceo?*Reunion de La Mejorana
+Español©AnTuaN-«:Platano y chancleta en Occidente, en Oriente como serian?*Fongo y cutara
+Clima©AnTuaN-«:Mayor desastre natural en la historia de Cuba?*Maremoto de Santa Cruz del Sur
+Clima©AnTuaN-«:Segundo mayor desastre natural en la historia de Cuba?*Huracan Flora
+Historia©AnTuaN-«:Nombre del barco hundido cerca de las costas cubanas a principios del siglo XX, victima de un ciclon?*Valbanera
+Geografia©AnTuaN-«:Principales sistemas montañosos de Camaguey?*Sierra de Cubitas y Sierra de Najasa
+Cuba©AnTuaN-«:Nombre anterior del Hotel Habana Libre?*Hotel Habana Hilton
+Musica©AnTuaN-«:Musicalizador excelente de peliculas cubanas como Clandestino?*Edesio Alejandro
+Historia©AnTuaN-«:Nombre del machete que usaban los guardias rurales en Cuba antes de 1959?*Paraguayo
+Cuba©AnTuaN-«:Significados de las siglas CUP y CUC?*Cuban Peso y Cuban Convertible
+Cuba©AnTuaN-«:Presentador por excelencia de la cerveza Hatuey en Cuba, nombre de su hijo?*Manolo Ortega, Sergio
+Deporte©AnTuaN-«:En que olimpiada Cuba obtuvo la mejor actuacion historica, un inesperado quinto lugar?*Barcelona 1992
+Deportes©AnTuaN-«:Autor del unico juego perfecto en Series Nacionales?*Maels Rodriguez
+Radio©AnTuaN-«:Frecuencia de Radio Taino, la emisora turistica de Cuba?*107.9
+Cuba©AnTuaN-«:Con que otro nombre se conoce a la calle G, una de las famosas de La Habana?*Avenida de los Presidentes
+Regiones de Cuba©AnTuaN-«:Unico territorio cubano donde Cuba no es la dueña?*Base Naval de Guantanamo
+Regiones de Cuba©AnTuaN-«:Territorio cubano excelente para la crianza de cocodrilos?*Cienaga de Zapata
+Deporte©AnTuaN-«:Cuales son los dos pitchers mas ganadores en Series Nacionales?*Pedro Luis Lazo, Jorge Luis Valdes
+Cuba©AnTuaN-«:Dos rios cubanos que a la vez son nombres de dos presas?*Zaza, Hanabanilla
+Cuba©AnTuaN-«:Personaje pintoresco de La Habana ya fallecido, un poco loquito tal vez?*Caballero de Paris
+Historia©AnTuaN-«:Cuales fueron los dos tipos fundamentales de aborigenes cubanos?*Recolectores-cazadores-pescadores y agricultores-ceramistas
+Historia©AnTuaN-«:Año de fundacion de la Universidad de La Habana?*1728
+Cine©AnTuaN-«:Dos programas humoristicos cubanos excelentes?*Vivir del cuento, Jura decir la verdad
+Literatura©AnTuaN-«:Tipo de obra poetica cubana compuesta por 10 versos octosilabos?*Decima
+Literatura©AnTuaN-«:Autora cubana del Cochero Azul?*Dora Alonso
+Variados©AnTuaN-«:Tipo de arbol cubano, un iman para los rayos y centellas?*Palma real
+Historia©AnTuaN-«:Almirante español masacrado en la Batalla Naval de Santiago de Cuba?*Pascual Cervera
+Musica©AnTuaN-«:Si canto A lo cubano, Mujer, Que pasa y Cuba no se fue de mi, en que cantantes pienso?*Roldan, Yotuel y El Ruzzo
+Pezca©AnTuaN-«:Tres de los peces mas despreciados en Cuba?*Tenca, claria y barbu
+Cine©AnTuaN-«:Unica pelicula cubana nominada a los premios Oscar?*Fresa y chocolate
+Matemáticas©AnTuaN-«:Celebre matematico cubano, trabajo para la NASA despues de 1959?*Mario Gonzalez
+Varios©AnTuaN-«:Titulo que expide la UCI, diferente al de Ingeniero(a) Informatico(a) de las restantes universidades cubanas?*Licenciado en Ciencias Informaticas
+Bilogía©AnTuaN-«:Mayor sapo cubano?*Gran Sapo de Muesca de Occidente
+Regiones de Cuba©AnTuaN-«:En que provincia se encuentra el edificio mas alto de Cuba fuera de la capital?*Camaguey
+Variados©AnTuaN-«:Grado cientifico cubano otorgado al investigador que realiza un doctorado de segundo nivel?*Dr.Cs.
+Regiones de Cuba©AnTuaN-«:Lugar del centro de Cuba idoneo para el Turismo de Naturaleza, cercano a Trinidad?*Topes de Collantes
+Celebridades del Mundo xD©AnTuaN-«:Celebre ciclon que paso por Cuba en los 80, sobretodo por su rapidisima formacion?*Tormenta del Siglo
+Deportes©AnTuaN-«:Unicos dos equipos de beisbol de la MLB con los cuales el equipo Cuba ha efectuado algun juego?*Orioles de Baltimore, Tampa Bay
+Deporte©AnTuaN-«:Records de Javier Sotomayor al aire libre y bajo techo?*2.45, 2.43
+Cine©AnTuaN-«:Tres magnificos integrantes de la familia Veloz, ejemplos para la actuacion cubana?*Ramon, Ramoncito y Coralita
+Cancion (Artista)©AnTuaN-«: Voy darte perdones borrar los rencores, tomarte las manos reirme de mi?*Voy a darte (Isis Flores)
+Variados©AnTuaN-«:Dos presidentes norteamericanos que han visitado Cuba?*James Carter, Barack Obama
+Meteorologia©AnTuaN-«:Figura clave de la Meteorologia Cubana, siempre activo en temporada de ciclones?*Jose Rubiera
+Historia©AnTuaN-«:Presidente cubano que creo bajo su mandato la Carretera Central y El Capitolio?*Gerardo Machado
+Finanzas©AnTuaN-«:Precio del pasaje en Youtong (no por Via Azul) desde La Habana hasta Sancti Spiritus (en CUP)?*69.00
+Regiones de Cuba©AnTuaN-«:Donde se encuentra el Km 0 de la Carretera Central?*Frente al Capitolio, La Habana
+Regiones de Cuba©AnTuaN-«:Nombre del saliente de tierra donde se encuentra la estupenda Playa Varadero?*Peninsula de Hicacos
+Deportes©AnTuaN-«:Maraton mas famoso de Cuba, donde intervienen corredores del mundo entero?*Marahabana
+Musica©AnTuaN-«:Casi siempre nominado a los Grammys Latinos en la categoria relacionada con el Jazz?*Chucho Valdes
+Cancionero cubano©AnTuaN-«: Y si vas al Cobre...?*quiero que me traigas, una Virgencita de la Caridad
+Musica©AnTuaN-«:Cantante italiana de primer nivel e invitada de honor al concierto de Gente de Zona en Cuba?*Laura Pausini
+Deporte©AnTuaN-«:Figura cumbre del ajedrez cubano, cuyo nombre lleva el maximo torneo de ese tipo en nuestro pais?*Jose Raul Capablanca
+Regiones de Cuba©AnTuaN-«:Ciudad cubana sede cada año del Festival de Cine Pobre?*Gibara
+Fisica©AnTuaN-«:Gran fisico aleman que visito nuestro pais en la primera mitad del siglo XX?*Albert Einstein
+Viajes©AnTuaN-«:Cosmonauta cubano que viajo al espacio exterior junto al ruso Yuri Romanenko?*Arnaldo Tamayo Mendez
+Musica©AnTuaN-«:Cantantes latinos que realizaron conciertos en Cuba, fundamentalmente en La Habana?*Alvaro Torres, Victor Manuelle y Jerry Rivera
+Cine©AnTuaN-«:Actor norteamericano de primer nivel que visito La Habana?*Jack NicholsonI
+Cine©AnTuaN-«:Interprete de Diamonds, Umbrella y The monster que paseo por las calles de La Habana?*Rihanna
+Musica©AnTuaN-«:Dos canciones cubanas que fueron elegidas para Playing for Change (Cancion alrededor del mundo)?*Guantanamera y Chan Chan
+Musica©AnTuaN-«:Mezcla de grupos españoles de la Decada Prodigiosa que visito Cuba y estuvo en 23 y M?*Formula-Diablos
+Cine©AnTuaN-«:Que saga norteamericana tuvo escenas de filmacion en las calles de La Habana (en ingles)?*Fast and the Furious
+Regiones de Cuba©AnTuaN-«:Cienaga de la Isla de la Juventud, un poco menos famosa que la de Zapata?*Cienaga de Lanier
+Nombres©AnTuaN-«:Universidad holguinera, especialista en tecnologia de los minerales (lider del niquel)?*Instituto Superior Metalurgico de Moa
+Deporte©AnTuaN-«:Ajedrecista cubano que en su momento supero los 1760 puntos en el ELO?*Lenier Dominguez
