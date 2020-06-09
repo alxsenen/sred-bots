@@ -1,0 +1,58 @@
+﻿KAOS: Cosas que se encuentran en una habitación*Cama*Armario*Escritorio*Almohadas*Espejo*Radio*Alarma*Fotos*Frazada
+KAOS: Cosas asociadas con un resfriado*Tos*Fiebre*Estornudo*Moco*Agotamiento*Dolor de cabeza*Escalofrio
+KAOS: Comida: Sabores de helado*Melocoton*Fresa*Chopcolate*Menta*Pistacho*Limon*Chocolate Blanco*Zapote*Mango*Piña*Naranja*Vanilla
+KAOS: USA: Capitales de los estados del Sur*Tallahassee*Atlanta*Montgomery*Frankfort*Jackson*Nashville*Little Rock*Baton Rouge*Raleigh*Columbia
+KAOS: Cantantes famosos cubanos Primera Parte*Silvio Rodriguez*Pablo Milanes*Celia Cruz*Compay Segundo*Benny More*Celina Gonzalez*Omara Portuondo*Polo Montañez*Rita Montaner*Pepe Sanchez*Joseito Fernandez*Elena Burke
+KAOS: USA: Top 10 de las ciudades de Michigan*Detroit*Grand Rapids*Warren*Flint*Sterling Heights*Lansing*Ann Arbor*Livonia*Dearborn*Westland
+KAOS: Diga modismos cubanos*ño*bohio*alabao*acere*almendron*apagon*bateo*bayu*brete*carajo*cazuelero*candela*fiñe
+KAOS: Donde buscar informacion*Atlas*Dictionario*Directorio*Enciclopedia*Google*Guia Telefonica*Manual*Almanacen
+KAOS: Diga los municipios de Holguin*Holguin*Antilla*Baguano*Banes*Cacocum*Calixto Garcia*Cueto*Frank Pais*Gibara*Mayari*Moa*Rafael Freyre*Sagua de Tanamo*Urbano Noris
+KAOS: Peliculas de Mel Gibson*Signs*Chicken Run*The Patriot*What Women Want*Lethal Weapon*Ransom*Braveheart*Maverick*Air America*Hamlet
+KAOS: Nombre de animales que comienzan con L*Lobo*Lince*Leopardo*lagartija*Lechuza*Loro*Lagarto*Liebre*Leon*Langosta
+KAOS: Partes de un barco*Proa*Popa*Estribor*Amuras*Aletas*Linea de crujia*Babor*Carena*Eslora*Puntal*Calado
+Peliculas de Chris Farley*Almost heroes*Beverly hills ninja*Black sheep*Tommy boy*Billy madison*Airheads*Coneheads*Wayne's world
+KAOS: Frutas y vegetales que empiezan con A*Aceituna*Aguacate*Albaricoque*Almendra*Arandano*Acerola*Avellana
+KAOS: Top 10 Peliculas  (segun www.topten.com)*Star Wars*Schindler's List*The Silence Of The Lambs*The Fugitive*Raiders Of The Lost Ark*The GodFather*Rain Man*E.T.*BraveHeart*Jaws
+KAOS Peliculas de Disney*Bambi*Blancanieves*Cenicienta*La Bella Durmiente*El Rey Leon*Alicia en el pais de las maravillas*El libro de la selva*La bella y la bestia*Toy Story*Pinocho
+KAOS: Diga los Municipios de Guantanamo*Guantanamo*Baracoa*Caimanera*El Salvador*Imias*Maisi* Manuel Tames*Niceto Perez*San Antonio del Sur*Yateras
+KAOS: Deportes: Posiciones de pelota*Catcher*Pitcher*Left Field*Center Field*Right Field*Primera Base*Segunda base*Tercera base
+KAOS: Juegos: Juegos de mesa*Trivial*Monopolio*Parchis*Ajedrez*Damas*Scrabble
+KAOS: USA:Nombres comunes de los EU*Smith*Johnson*Williams*Jones*Brown*Davis*Miller*Wilson*Moore*Taylor
+KAOS: Peliculas de Robbie Williams(en inglés)*Patch Adams*Flubber*Bicentennial Man*Deconstructing Harry*Good Morning Vietnam*Dead Poets Society*Mrs Doubtfire*Good Will Hunting*The Fisher King*One Hour Photo
+KAOS: Diga los Municipios de Santiago de Cuba*Santiago de Cuba*Contramaestre*Palma Soriano*Guama*Mella*San Luis*Segundo Frente*Songo La Maya*Tercer Frente
+KAOS: Animales que empiecen con'L' en Ingles*Llama*Lamb*Lion*Lynx*Lizard*Leech*Ladybug*Lemur*Lobster*Loon
+KAOS: Mencione escritores cubanos famosos*Leonardo Padura*Jose Marti*Guillermo Cabrera*Alejo Carpentier*Jose Lezama Lima*Nicola Guillen*Virgilio Piñera*Jose Maria Heredia*Eliseo Diego*Cirilo Villaverde*Cintio Vitier
+KAOS: Frutas y vegetales que empiezan con'T'*Tomate*Tamarindo*Tuna*Toronja*Tangelo*Tupinampo
+KAOS: Cantantes famoso cubanos Segunda Parte*Leoni Torres*Diana Fuentes*Haila*Leo Vera*Luna Manzanares*Laritza Bacallao*Carlos Varela*Mayco de Alma*Waldo Mendoza*Israel Rojas*Raul Paz
+KAOS: Paises de Centro America*Belize*Costa Rica*El Salvador*Guatemala*Honduras*Nicaragua*Panama
+KAOS: Partes del cuerpo humano con tres letras en ingles*eye*hip*arm*leg*ear*toe*jaw*rib*lip*gum
+KAOS: Peliculas de Lucille Ball en ingles*Bottoms up*Hold that girl*Follow the fleet*Stage door*Room service*Valley of the sun*Ziegfeld follies*Lover come back*Yours, mine and ours*Mame
+KAOS: Fracciones Comunes(ej. 7/8)*1/2*1/4*1/3*2/3*1/8*3/8*7/8*3/4*1/16*5/8
+KAOS: Frutas y vegetales que comienzan con'G'*Guayaba*Grosella*Gayuba*Grosella roja*Guanabana*Guineo*Granadina*Garbamzo*Guisante*
+KAOS: Animales que empiecen con'J'*Jabali*Jabiru*Jackal*Jaguar*Jerboa*Jineta*Jirafa*Jerbo*
+KAOS: Diga los tipos de sangre*A positiva*A negativo*B positivo*B negativo*O positivo*O negativo*AB positivo*AB negativo
+KAOS: Peliculas de Jamie Lee Curtis en inglés*Halloween*Prom night*Trading places*Love letters*Perfect*Amazing grace and chuck*A fish called wanda*My girl*True lies*Virus
+KAOS: Animales que empiezan con'O'*oca*Oso*Orca*Okapi*Ostra*Oveja*Oryx*Orangutan
+KAOS:Cosas que puedes encontrar en una sala*Sofa*Mesa*Mesa del Cafe*Lampara*Television*Librero**Sillas*Fotos
+KAOS: Diga nombres de escritoras cubanas famosas*Gertrudis Gomez de Avellaneda*Mirta Aguirre*Dora Alonso*Mayte Vera*Dulce Maria Loynaz*Delia Fiallo
+Animales que empiezan con'A'*Ayu*Alce*Arao*Anoa*Atun 
+Peliculas de Dustin Hoffman*The graduate*All the president's men*Marathon man*Kramer vs kramer*Tootsie*Rain man*Hook*Wag the dog*Billy bathgate*Dick tracy
+KAOS: Miembros de bandas musicales: Led Zeppelin*Robert Plant*Jimmy Page*John Paul Jones*John Bonham*John Lennon*Freddie Mercury*Robert Trujillo*Israel Rojas*David Blanco
+KAOS: Cosas que necesitan licencia para hacerlas*Cazar*Pescar*Conducir*Volar un avion*Practicar medicina*Tener un arma*Casarse
+KAOS: USA: Estados cerca de Pennsylvania*New York*New Jersey*Delaware*Maryland*West Virginia*Ohio
+KAOS: Deportes: Jugadores de Tenis(Apellidos)*Borg*McEnroe*Connors*Navratilova*Becker*Edberg*Chang*Evert-lloyd*Sampras*Hingis*Nadal*Federer*Williams
+KAOS: USA: Top 10 Ciudades al sur de California*Columbia*Charleston*North Charleston*Greenville*Rock Hill*Mount Pleasant*Spartanburg*Sumter*Hilton Head Island*Florence
+KAOS: Peliculas de June Allyson en inglés*Little Women*Strategic Air Command*Two Girls and a Sailor*The Stratton Story*Exective Suite*The Glenn Miller Story*The McConnell Story*Two Sisters From Boston*Battle Circus*My Man Godfrey
+KAOS: Music:Artistas*The Coasters*Elvis Presley*Cozy Cole*Ricky Nelson*Frankie Avalon*Fabian*Leoni Torres*Compay Segundo*Beyonce*Jenifer Lopez*Shakira*Bebe*Dido*Polo Montañes*Frank Sinatra*Justin Bieber*Sam Smith*Benny More*Camila Cabello*Melendi
+KAOS: Capitales Europeas*Paris*Rome*Madrid*Lisbon*Stockholm*Copenhagen*London*Helsinki*Oslo
+KAOS: Diga los municipios de Holguin*Holguin*Antilla*Baguano*Banes*Cacocum*Calixto Garcia*Cueto*Frank Pais*Gibara*Mayari*Moa*Rafael Freyre*Sagua de Tanamo*Urbano Noris
+KAOS: Diga los tipos de sangre*A positiva*A negativo*B positivo*B negativo*O positivo*O negativo*AB positivo*AB negativo
+KAOS: Diga nombres de escritoras cubanas famosas*Gertrudis Gomez de Avellaneda*Mirta Aguirre*Dora Alonso*Mayte Vera*Dulce Maria Loynaz*Delia Fiallo
+KAOS: Mencione escritores cubanos famosos*Leonardo Padura*Jose Marti*Guillermo Cabrera*Alejo Carpentier*Jose Lezama Lima*Nicola Guillen*Virgilio Piñera*Jose Maria Heredia*Eliseo Diego*Cirilo Villaverde*Cintio Vitier
+KAOS: Diga modismos cubanos*ño*bohio*alabao*acere*almendron*apagon*bateo*bayu*brete*carajo*cazuelero*candela*fiñe
+KAOS: Cuales son los municipios de Las Tunas*Manati*Puerto Padre*Jesus Menendez*Las Tunas*Majibacoa*Jobabo*Colombia*Amancio
+KAOS: Diga los libros mas influyentes de la literatura cubana*La edad de Oro*Cecilia Valdes*Paradiso*La loma del Angel*El Reino de este mundo*Versos sencillos*El siglo de las luces*Tres tristes trigues*Los pasos perdidos*La novela de mi vida
+KAOS: Los nombres de los presidentes de la isla de Cuba*Carlos Manuel de Cespedes*Tomas Estrada Palma*Mario Garcia Menocal"Alfredo Zayas y Alfonso*Gerardo Machado*Ramon Grau San Martin*F ulgencio Batista*Carlos Prio Socarras*Osvaldo Dorticos*Manuel Urrutia Lleo*Fidel Castro Ruz*Raul Modesto Castro Ruz*Miguel Mario Diaz-Canel 
+KAOS: Diga los municipios de Sancti Spiritus*Trinidad*Cabaiguan*Fomento*La Sierpe*Yaguajay*Taguasco*Jatibonico
+KAOS: Diga películas cubanas*Los pajaros tirandole a la escopeta*Una novia para David*Miel para Oshun*Vampiros en la Habana*El Pidio Valdes*Plaf*Amor vertical*Inocencia*Cecilia Valdes*Vampiros en la Habana 2*Clandestinos*Conducta*La bella del Alhambra 
+
