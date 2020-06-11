@@ -1,8 +1,5 @@
-KAOS: Animales que comienzan con 'C'*Coyote*Caribu*Camello*Chicken*Caterpillar*Caballa*Cameleon*Caballito de mar*Cabra*Caiman*Calamar*Caballa*Caballito de mar*Caballo*Caballo monchino*Cabra 
-KAOS: Peliculas de Harrison Ford en inglés*Star Wars*Empire Strikes Back*Return of the Jedi*Raiders Of The Lost Ark*Indiana Jones and the Temple Of Doom*Air Force One*The Fugitive*Clear And Present Danger*Blade Runner*Patriot Games
-KAOS: Hechos importantes del siglo xx*Revolucion mexicana*Triunfo de la Revolucion Cubana*Descubrimiento de la penicilina*Primera guerra mundial*Segunda Guerra Mundial*Asesinato de Ghandi*Hundimiento del Titanic*Revolucion bolchevique de Rusia*La gran depresion*Asesinato de J.F.Kennedy*Caida del muro de Berlin
-KAOS: Animales que comienzan con 'C'(Segunda parte)*Cacatua*Cachalote*Calamar gigante*Calamon*Camaleon*Canario*Cangrejo*Canguro*Capibara*Caracol*Castor europeo*Cebra*Ciempies*Cisne*Cobra*Colibri	
-KAOS: Cantantes más famosos del 2020*Bruno Mars*Beyonce*Post Malone*Selena Gomez*Camila Cabello*Taylor Swift*Ed Sheeran*Shawn Mendes*Ariana Grande
-KAOS: Mejores porteros 2019-2020*Alisson*Jan Oblak*Ter Stegen*Thibaut Courtois*David De Gea*Ederson*Samir Handanovic
-KAOS: Personas más influyentes de la historia*Albert Einstein*Julio Verne*Isaac Newton*Galileo Galilei*Leonardo Da Vinci
-KAOS: Los ritmos cubanos son*casino*timba*son*timbaton*danzon*zapateo*mambo*rumba*guaguanco*salsa*tumba francesa
+KAOS: Personas más trascendentes de la historia*Jesus de Nazaret*Nikola Tesla*Marie Curie*Ludwing Van Beethoven*William Shakespeare*Wolfang Amadeus Mozart*Mahatma Gandhi*Mahoma*Karl Marx*Nelson Mandela*Dolores Ibarruri*Sim*n Bolivar
+KAOS: Personas más trascendentes de la historia(Segunda Parte)*Vladimir Putin*Ernesto Che Guevara*Yuri Gagarin*Malala Yousafzai*Buda*Confucio*Gengis Kan*Lao Tse*Alexander Fleming*Louis Pasteur*Nicolas Maquiavelo*Charles Darwin*Teresa de Calcuta
+KAOS: Los mejores deportistas cubanos de todos los tiempos*Teofilo Stevenson*Martin Dihigo*Regla Torres*Pedro Luis Lazo*Felix Savon*Ivan Pedroso*Javier Sotomayor*Mijain Lopez*Erick Lopez*Jose Raul Capablanca
+KAOS: Las mejores canciones lanzadas durante la pandemia del Coronavirus*Good Job*En Casita*Wasted on you*No estás solo*Downhill From Everywhere*Murder Most Foul*Last of the Street Survivors*Sick*No Time for Love Like Now*I Believe That We Will Win
+KAOS: Canciones de Pedro Guerra con nombre de mujer*Teodora*Herminita*Angela*Lilith*Adelita*Rosario*Greta*Daniela
