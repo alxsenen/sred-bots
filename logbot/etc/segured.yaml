@@ -1,40 +1,27 @@
 ---
 blocked:
-  - '#never_log'
   - baduser
 bots:
-  - bugbot
-  - pulsebot
+  - pink
+  - p|nk
 channels:
-  '#brazil': {}
-  '#cafechat':
-    invite: '[2020-06-11 19:51:21] <CafeChat!Staff@CafeChat.Network>'
-  '#cancunchat': {}
-  '#djs-boom':
-    invite: '[2020-06-14 21:28:13] <alastor!moody@Hogwarts.Segured.Org>'
-  '#irczone': {}
-  '#lima':
-    invite: '[2020-06-13 00:42:35] <alastor!moody@hogwarts.segured.org>'
+  '#ayuda': {}
+  '#trivia': {}
+  '#lucoloco': {}
   '#lobby': {}
-  '#ludocoloco':
-    invite: '[2020-06-10 23:08:58] <Zuzana|Off!Android@zuzana.cuban.cu>'
-  '#operators':
+  '#opers':
     hidden: '1'
-  '#opers_segured':
-    hidden: '1'
-    invite: '[2020-06-14 02:26:02] <alastor!moody@Hogwarts.Segured.Org>'
   '#services':
     hidden: '1'
-  '#trivia':
+  '#ircops':
     hidden: '1'
-help: "I am glob's logbot - https://logs.glob.uno/"
+help: 'I do not like PMs!!!'
 irc:
   host: ssl:irc.segured.org:6697
-  nick: o_O
-  password: alexhr9.
-  real_name: 'o_O (logs.segured.org)'
-name: 'SeguRED & IRCZone'
-path: '~/store/segured-irczone'
+  nick: P|nK
+  real_name: P|nK
+name: SeguRED
+path: '~/store/segured'
 timing:
   channel_reload_interval: '3600'
   initial_ping_delay: '180'
@@ -44,5 +31,5 @@ timing:
   ping_timeout: '30'
   ping_timeout_attempts: '5'
   topic_reload_interval: '86400'
-title: 'SeguRED & IRCZone'
+title: SeguRED
 url: https://logs.segured.org/
