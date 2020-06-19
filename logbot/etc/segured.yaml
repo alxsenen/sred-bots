@@ -6,8 +6,10 @@ bots:
   - p|nk
 channels:
   '#ayuda': {}
-  '#trivia': {}
-  '#lucoloco': {}
+  '#trivia': 
+    hidden: '1'
+  '#dev_team': {}
+  '#ludoloco': {}
   '#lobby': {}
   '#opers':
     hidden: '1'
