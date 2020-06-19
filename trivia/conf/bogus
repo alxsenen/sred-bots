@@ -1,0 +1,11 @@
+DIR=trivia-segured/
+FILE=bogus.ques.samp*
+SDIR=scripts/
+if  ls trivia-segured/$FILE 1> /dev/null 2>&1; then
+    echo "$FILE exist"
+    cp -r $DIR$FILE $SDIR
+    #cd $DIR; git add .; git commit -m "Erasing file"; git push
+else 
+   echo "$FILE does no exist"
+fi
+

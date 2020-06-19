@@ -1,0 +1,8 @@
+PID=$(pidof 'logbot-irc (SeguRED)')
+if [[ -z "$PID" ]]
+then
+    nohup ~/core/logbot/logbot-irc segured &
+else
+    echo "Logbot-IRC ($PID) is running"
+fi
+

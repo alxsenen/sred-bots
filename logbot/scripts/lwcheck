@@ -1,0 +1,8 @@
+PID=$(pidof 'logbot-web')
+if [[ -z "$PID" ]]
+then
+    nohup ~/core/logbot/logbot-hypnotoad &
+else
+    echo "Logbot-Web ($PID) is running"
+fi
+

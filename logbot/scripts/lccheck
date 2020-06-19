@@ -1,0 +1,8 @@
+PID=$(pidof 'logbot-consumer (SeguRED)')
+if [[ -z "$PID" ]]
+then
+    nohup ~/core/logbot/logbot-consumer segured &
+else
+    echo "Logbot-Consumer ($PID) is running"
+fi
+

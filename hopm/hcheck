@@ -1,0 +1,8 @@
+PID=$(pidof 'hopm')
+if [[ -z "$PID" ]]
+then
+    cd ~/hopm/bin; ./hopm
+else
+    echo "HOPM ($PID) is running"
+fi
+
