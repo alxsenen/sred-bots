@@ -61,22 +61,22 @@ set t2(oflag) "-|-"   ;# flags to turn the game on ("" = everyone) #
 set t2(sflag) "-|-"      ;# flags to turn game off    ("" = same as on flags) #
                       ;# separate off flags requires using separate on & off triggers #
 
-set t2(lpoint) "125"     ;# low end of points range  (1 or more) #
-set t2(hpoint) "500"    ;# high end of points range (same or above lpoint) #
+set t2(lpoint) "500"     ;# low end of points range  (1 or more) #
+set t2(hpoint) "1000"    ;# high end of points range (same or above lpoint) #
 
 set t2(qtime) "15"    ;# play time between hints (6 to 60 seconds) #
 set t2(ptime) "6"    ;# play time between questions (6 to 60 seconds) #
 
 set t2(dobonus) "10"      ;# how often to do a bonus (by question count) (0=off) #
 
-set t2(minbonus) "25"  ;# min points for bonus (empty (or 0)=uses hpoint setting as before) #  <- NEW SETTING #
-set t2(maxbonus) "50"  ;# max points for bonus (above minbonus (or hpoint) #
+set t2(minbonus) ""  ;# min points for bonus (empty (or 0)=uses hpoint setting as before) #  <- NEW SETTING #
+set t2(maxbonus) "2500"  ;# max points for bonus (above minbonus (or hpoint) #
 
 set t2(kaos) "10"     ;# how often to do a kaos (by question count) (0=off) (1=do only kaos) #
 set t2(ktime) "20"    ;# time between hints on kaos (6 to 90 seconds) #
 
-set t2(klpoint) "120"   ;# low end of points per kaos answer range  (1 or more) #
-set t2(khpoint) "500"  ;# high end of points per kaos answer range (same or above klpoint) #
+set t2(klpoint) "500"   ;# low end of points per kaos answer range  (1 or more) #
+set t2(khpoint) "1000"  ;# high end of points per kaos answer range (same or above klpoint) #
 
 # change the default . command prefix to something else #
 #  "." = leave all . prefixes as is (default) #
@@ -261,7 +261,7 @@ set t2(lmo) "1"      ;# show last month ?? #
 
 # user file maint # affects the ever stats & the size of the user file #
 set t2(usrmax) "1000"  ;# max number of users in the user file.  (200 or more) #
-set t2(oldusr) "31"  ;# remove all users not seen in this many days ?? (0=no) #
+set t2(oldusr) "365"  ;# remove all users not seen in this many days ?? (0=no) #
 
 ##########   Advanced KAOS Settings   ##########
 # bogus can do kaos hints in 2 ways,  long hints or a shorter ver. (try it:) #
