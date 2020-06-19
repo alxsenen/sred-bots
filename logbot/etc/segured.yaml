@@ -8,7 +8,6 @@ channels:
   '#ayuda': {}
   '#trivia': 
     hidden: '1'
-  '#dev_team': {}
   '#ludoloco': {}
   '#lobby': {}
   '#opers':
