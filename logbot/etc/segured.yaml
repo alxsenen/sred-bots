@@ -18,7 +18,7 @@ channels:
     hidden: '1'
 help: 'I do not like PMs!!!'
 irc:
-  host: ssl:irc.segured.org:6697
+  host: ssl:mirror.segured.org:7797
   nick: P|nK
   real_name: P|nK
 name: SeguRED
