@@ -1,0 +1,12 @@
+﻿KAOS: Mencione lugares emblemáticos de Santiago de Cuba*Castillo del Morro*Cementerio de Santa Ifigenia*Museo 26 de Julio*Baconao*Parque Cespedes*Santuario de la Virgen del Cobre*Cayo Granma*Casa de Diego Velazquez*Plaza de Marte*Parque nacional Turquino*Santa Basilica Metropolitana*Plaza de Dolores
+KAOS: Diga los Tipos de transmición de datos*Transmision Analoga*Transmision Digital*Transmision Asincrona*Transmision Sincrona*Transmision de datos en serie*Transmision en paralelo
+KAOS: Mencione algunos cayos cubanos*Coco*Guillermo*Santa Maria*Los Ensenachos*Las Brujas*Las Brujas*Levisa*Paraiso*Jutias*Largo del Sur*Iguana
+KAOS: Algunas celebraciones y tradiciones de cuba*Festival de fuego*Parranda de Remedios*Festival Cubadisco*Festival Benny More*Festival de Teatro*Fiestas de los bandos Rojo y Azul*Festival Chocolate con Cafe*Carnaval de Santiago de Cuba
+KAOS: Diga cines y teatros de La Habana*Yara*Multicine Infanta*Astral*Mella*Lazaro Peña*la rampa*Alicia Alonso*America*Karl marx*Marti
+KAOS: Dulces caseros típicos de Cuba*arroz con leche*dulce de frutabomba*casquito de guayaba*boniatillo*dulce de leche*dulce de coco*flan de calabaza*Cascos de toronja*merenguitos*Buñuelos*Fanguito
+KAOS: Dulces caseros típicos de Cuba(Segunda Parte)*Coquito acaramelado*Flan de Leche*Flan de Calabaza*Majarete*Melcocha*Piruli*Pulpita de Tamarindo*Pudin de Pan*Dulce de Mango*Natilla*Mermelada 
+KAOS: Nombre algunos canales de la televisión cubana*cubavision*tele rebelde*canal educativo*canal educativo 2*canal clave*multivision*cubavision internacional*canal caribe
+KAOS: Diga series cubanas*los papaloteros*los pequeños fugitivos*coco verde*los tres Villalobos*la atenea esta en san miguel*adrenalina 360*Hermanos*Zoologico*Su propia guerra
+KAOS: Mencione aplicaciones cubanas*todus*la intolerancia no la toleramos*hoy tengo ganas de reir*etk*fnm de cuba*habana trans*transfermovil*enzona*picta*apklis*qvacall
+KAO: Siga los municipios de la provincia de mayabeque*güines*madruga*san nicolas de bari*san jose de las lajas*melena del sur*batabano*bejucal*Jaruco*santa cruz del norte*nueva paz*quivican
+KAOS: Diga mujeres destacadas del deporte cubano*Maria Caridad Colon*Ana Fidelia Quirot*Fulgencia Romay*Yarisley Silva*Violeta Quesada*Yaime Perez*Idalys Ortiz*Regla Torres*Denia Caballero*Omara Durand*Mireya Luis*Regla Bell*Miguelina Cobian*Marlene Elejalde
